@@ -1,5 +1,13 @@
 # blackroad-lp-portal
 
+> Limited partner portal and fund reporting
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Ventures](https://github.com/BlackRoad-Ventures)
+
+---
+
+# blackroad-lp-portal
+
 Limited partner portal and fund reporting system.
 
 ## Features
